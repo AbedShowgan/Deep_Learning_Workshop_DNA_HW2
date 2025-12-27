@@ -1,0 +1,14 @@
+artifact_uri: file:///home/abed/deep_learning/Deep_Learning_Workshop_DNA_HW2/mlruns/823012891375308118/7c04af4f79ba4433aee9581177d97aff/artifacts
+end_time: 1766846774228
+entry_point_name: ''
+experiment_id: '823012891375308118'
+lifecycle_stage: active
+run_id: 7c04af4f79ba4433aee9581177d97aff
+run_name: CNN_1D
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766846403994
+status: 3
+tags: []
+user_id: abed
