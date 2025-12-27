@@ -1,0 +1,23 @@
+artifact_path: file:///home/abed/deep_learning/Deep_Learning_Workshop_DNA_HW2/mlruns/823012891375308118/models/m-8ee8a64a9dc44fbe9dd8410b620d9a2d/artifacts
+flavors:
+  python_function:
+    config:
+      device: null
+    data: data
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.pytorch
+    pickle_module_name: mlflow.pytorch.pickle_module
+    python_version: 3.12.3
+  pytorch:
+    code: null
+    model_data: data
+    pytorch_version: 2.5.1+cu121
+mlflow_version: 3.8.1
+model_id: m-8ee8a64a9dc44fbe9dd8410b620d9a2d
+model_size_bytes: 185964
+model_uuid: m-8ee8a64a9dc44fbe9dd8410b620d9a2d
+prompts: null
+run_id: 528b9317ea8e443fbb2fd6bf330d6763
+utc_time_created: '2025-12-27 20:59:59.879223'

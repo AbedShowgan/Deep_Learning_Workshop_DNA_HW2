@@ -1,5 +1,5 @@
 artifact_uri: file:///home/abed/deep_learning/Deep_Learning_Workshop_DNA_HW2/mlruns/823012891375308118/72511137cc4148d88d9a7dc39d9ec62f/artifacts
-end_time: null
+end_time: 1766869199645
 entry_point_name: ''
 experiment_id: '823012891375308118'
 lifecycle_stage: active
@@ -9,6 +9,6 @@ source_name: ''
 source_type: 4
 source_version: ''
 start_time: 1766852790706
-status: 1
+status: 3
 tags: []
 user_id: abed
