@@ -1,0 +1,10 @@
+artifact_location: file:///home/abed/deep_learning/Deep_Learning_Workshop_DNA_HW2/mlruns/823012891375308118/models/m-dd022d23751b4795a137b5316aca5e07/artifacts
+creation_timestamp: 1767290149389
+experiment_id: '823012891375308118'
+last_updated_timestamp: 1767290162784
+model_id: m-dd022d23751b4795a137b5316aca5e07
+model_type: null
+name: cnn_best_model_64
+source_run_id: 9ee8d0c2178040f9a7ea5f5e88829948
+status: 2
+status_message: null

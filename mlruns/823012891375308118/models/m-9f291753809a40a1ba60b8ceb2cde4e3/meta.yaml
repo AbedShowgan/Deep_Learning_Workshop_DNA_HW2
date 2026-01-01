@@ -1,0 +1,10 @@
+artifact_location: file:///home/abed/deep_learning/Deep_Learning_Workshop_DNA_HW2/mlruns/823012891375308118/models/m-9f291753809a40a1ba60b8ceb2cde4e3/artifacts
+creation_timestamp: 1767294003111
+experiment_id: '823012891375308118'
+last_updated_timestamp: 1767294010340
+model_id: m-9f291753809a40a1ba60b8ceb2cde4e3
+model_type: null
+name: bilstm_best_model_48_v2
+source_run_id: d2059043b59b4a52953fc0ff83496f53
+status: 2
+status_message: null

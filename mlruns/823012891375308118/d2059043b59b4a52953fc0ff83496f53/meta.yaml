@@ -1,0 +1,14 @@
+artifact_uri: file:///home/abed/deep_learning/Deep_Learning_Workshop_DNA_HW2/mlruns/823012891375308118/d2059043b59b4a52953fc0ff83496f53/artifacts
+end_time: 1767294010341
+entry_point_name: ''
+experiment_id: '823012891375308118'
+lifecycle_stage: active
+run_id: d2059043b59b4a52953fc0ff83496f53
+run_name: BEST_MODELS_Improved
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1767293995773
+status: 3
+tags: []
+user_id: abed

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/abed/deep_learning/Deep_Learning_Workshop_DNA_HW2/mlruns/823012891375308118/d00b538a4c2c452aa47a5830b7cf154f/artifacts
+end_time: 1767284580163
+entry_point_name: ''
+experiment_id: '823012891375308118'
+lifecycle_stage: active
+run_id: d00b538a4c2c452aa47a5830b7cf154f
+run_name: BiLSTM
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1767281282751
+status: 3
+tags: []
+user_id: abed
